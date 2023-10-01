@@ -2,8 +2,8 @@
 
 ## Create flowchart and pseudocode for the following:
 
-**1. Input a year and find whether it is a leap year or not.**
-Solution: 
+**1. Input a year and find whether it is a leap year or not.**  
+Solution:   
 _PseudoCode:_
 1. INPUT a number N
 2. IF (N % 4 == 0)
@@ -11,16 +11,16 @@ _PseudoCode:_
 4. ELSE DISPLAY "Not a Leap Year"
 5. END
 
-**2. Take two numbers and print the sum of both.**
-Solution:
+**2. Take two numbers and print the sum of both.**  
+Solution:  
 _Pseudocode:_
 1. INPUT num1, num2
 2. LET sum = num1 + num2
 3. DISPLAY sum
 4. END
    
-**3. Take a number as input and print the multiplication table for it.**
-Solution:
+**3. Take a number as input and print the multiplication table for it.**  
+Solution:  
 _Pseudocode:_
 1. INPUT a number N
 2. LET i = 0
@@ -30,8 +30,8 @@ _Pseudocode:_
 6. END WHILE
 7. END
 
-**4. Take 2 numbers as inputs and find their HCF and LCM.**
-Solution:
+**4. Take 2 numbers as inputs and find their HCF and LCM.**  
+Solution:  
 _Pseudocode:_
 1. INPUT n1, n2
 2. LET x = n1, y = n2
@@ -45,8 +45,8 @@ _Pseudocode:_
 10. DISPLAY hcf, lcm
 11. END
 
-**5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.**
-Solution:
+**5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.**  
+Solution:  
 _Pseudocode:_
 1. LET Sum = 0
 2. DO
